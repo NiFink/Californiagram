@@ -28,4 +28,26 @@ export class AppComponent {
     'assets/Images/California/8.jpg',
     'assets/Images/California/9.jpg'
   ];
+  storyImages =[
+    'assets/Images/California/1.jpg',
+    'assets/Images/California/2.jpg',
+    'assets/Images/California/3.jpg',
+    'assets/Images/California/4.jpg',
+    'assets/Images/California/5.jpg',
+    'assets/Images/California/6.jpg',
+    'assets/Images/California/7.jpg',
+    'assets/Images/California/8.jpg',
+    'assets/Images/California/9.jpg'
+  ];
+  storyText =[
+    'Malibu',
+    'Ventura',  
+    'Dinosaur Caves Park',
+    'Morro Bay Dog Beach',
+    'Little Norway',
+    'San Francisco',  
+    'Yosemite National Park',
+    'Las Vegas',
+    'Las Vegas'
+  ];
 }

@@ -1,5 +1,9 @@
 footer{
-
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    display: flex;
     justify-content: center;
     button{
         font-size: 15px;
@@ -7,7 +11,7 @@ footer{
         border: unset;
         color: white;
         width: 25%;
-        height: 30px;
+        height: 40px;
         &:hover{
             background-color: rgb(255, 255, 255);
             color: black;
@@ -15,6 +19,9 @@ footer{
         &:selected{
             background-color: rgb(255, 255, 255);
             color: black;
+        }
+        img{
+            height: 25px;
         }
     }
 }
